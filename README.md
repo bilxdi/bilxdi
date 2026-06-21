@@ -1,5 +1,8 @@
 <h1>Hi 👋, I'm amogus</h1>
 <p>A passionate developer from ligma</p>
+
+![Static Badge](https://img.shields.io/badge/yo_check-this_out-green)
+
 <h2>🚀 Languages and Tools I ever Use</h2>
 <p>
 <!-- php -->
