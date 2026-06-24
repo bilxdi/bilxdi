@@ -6,23 +6,23 @@
 <h2>🚀 Languages and Tools I ever Use</h2>
 <p>
 <!-- php -->
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;">
+<a target="_blank" href="https://www.php.net" style="display: inline-block;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" />
 </a>
 <!-- python -->
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;">
+<a target="_blank" href="https://www.python.org" style="display: inline-block;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" />
 </a>
 <!-- css -->
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;">
+<a target="_blank" href="https://www.w3.org/Style/CSS/Overview.en.html" style="display: inline-block;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" />
 </a>
 <!-- html -->
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;">
+<a target="_blank" href="https://www.w3.org/html" style="display: inline-block;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" />
 </a>
 <!-- cpp -->
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;">
+<a target="_blank" href="https://isocpp.org" style="display: inline-block;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" />
 </a>
 
