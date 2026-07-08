@@ -26,9 +26,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" />
 </a>
 
-[![smth](https://github-readme-stats.vercel.app/api?username=bilxdi&show_icons=true&theme=ambient_gradient\&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
+[![smth](https://github-stats-extended.vercel.app/api?username=bilxdi&show_icons=true&theme=ambient_gradient\&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
 
-![idkman](https://github-readme-stats.vercel.app/api/top-langs/?username=bilxdi&layout=compact)
+![idkman](https://github-stats-extended.vercel.app/api/top-langs/?username=bilxdi&layout=compact)
 this is some pretty cool stuff right here
 </p>
 <a href="https://tinyurl.com/yss2wfyy" target="_blank"><img src="cooked.jpeg" alt="balls">&larr; dont click 🥺🥺🥺🗿</a>
